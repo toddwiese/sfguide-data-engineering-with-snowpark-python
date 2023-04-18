@@ -1,5 +1,6 @@
-import sys;
-import os;
+"""Module providing blah."""
+import sys
+import os
 
 ignore_folders = ['__pycache__', '.ipynb_checkpoints']
 
